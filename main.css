@@ -1,0 +1,76 @@
+body {
+    background-color: pink;
+} 
+
+.cajah1{
+    margin: 8px;
+    padding: 8px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: rgb(247, 53, 221);
+    border-left: 6px solid rgb(255, 170, 237);
+    background-color: rgb(246, 191, 248);
+    text-align: center;
+}
+.cajah1derecha {
+    background-color: palevioletred;
+    text-align: center;
+} 
+h2{ 
+    text-align: center;
+    border-radius: 0ch;
+    margin: auto;
+ }
+h4{ 
+    text-align: justify;
+    background-position: 0cqw;
+}
+.cajah3 {
+    background-color: beige;
+    border-color: black;
+    text-align: justify;
+    margin: 20px;
+}
+.cajah2n{
+    background-color: rgb(220, 228, 224);
+    text-align: center;
+    text-decoration: dashed;
+    margin: 20px;
+} 
+.cajpr{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   width: 100%;
+   padding: 20px;
+   height: auto;
+}
+.port.jpg{
+    width: 80%;
+    height: auto;
+    max-width: 800px;
+    margin-bottom: 20px;
+}
+.pink.png{
+    width: 40%;
+    height: auto;
+    max-width: 100px;
+    margin-bottom: 20px;
+}
+.href{
+    border: 1px solid black;
+    margin: 20px;
+    background-color: azure;
+    flex-direction: column;
+    display: block;
+    font-size: 1.2rem;text-decoration: underline;
+}
+.h2c{
+    background-color: rgb(220, 228, 224);
+    text-align: center;
+    text-decoration: dashed;
+    margin: 20px;
+    size-adjust: initial;
+}
